@@ -1,0 +1,10 @@
+system "clear"
+
+=begin
+    ==
+    !=
+    >
+    <
+    >=
+    <=
+=end
